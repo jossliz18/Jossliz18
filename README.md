@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Joselyn! 👋
 
-<!--
-**jossliz18/Jossliz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development and Programming Student
 
-Here are some ideas to get you started:
+I'm currently developing my skills in programming and exploring different areas of technology. I enjoy learning how things work, solving problems, and building projects that help me grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Skills
+- C++
+- HTML
+- CSS
+- Problem Solving
+- Currently learning software development
+
+### 🌱 Currently Working On
+- Strengthening my programming fundamentals
+- Building projects through coursework
+- Expanding my knowledge of web development
+
+### 🎯 Goals
+To continue growing as a developer, gain hands-on experience, and build projects that demonstrate my skills and creativity.
+
+---
+
+Thanks for visiting my profile!
